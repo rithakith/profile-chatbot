@@ -7,6 +7,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from fastapi.middleware.cors import CORSMiddleware
 from langchain.llms.base import LLM
+from fastapi import FastAPI
 
 load_dotenv()
 
