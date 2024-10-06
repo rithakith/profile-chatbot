@@ -1,0 +1,116 @@
+Rithara Kithmanthie
+IT Undergraduate at University of Moratuwa || Intern @ Calcey
+Technologies
+Colombo District, Western Province, Sri Lanka
+Summary
+Hi, I’m , a passionate IT undergraduate currently in my second
+year at the Faculty of IT. During my first year, I was honored to
+be selected as one of only 40 individuals out of 1,500+ applicants
+for the prestigious Calcey Springboard Scholarship program. This
+opportunity, offered by Calcey, a Gartner-recognized software
+development and IT consulting company in Sri Lanka, provided me
+with invaluable skills and insights into the IT industry.
+In addition to this, I developed a hardware project called the " "
+using IoT technology. This project was a significant part of my first
+year and demonstrated my interest in integrating hardware with
+software solutions.
+Following my scholarship, I embarked on a 6-month at Calcey,
+where I gained hands-on experience in UX, test case writing, bug
+reporting, and regression testing. Despite my enriching experience
+in QA, my true passion lies in development. I actively participate in
+hackathons and competitions to hone my skills, and I’m familiar with
+a range of technologies including , , ., , , ., , .
+One of my proudest achievements was leading my team to a -
+finish ., Sri Lanka's leading Advanced Analytics Competition. My
+enthusiasm for AI and LLMs drives me to continuously explore and
+learn in this exciting field.
+In addition to my academic and professional pursuits, I am deeply
+involved in volunteering. I am an active member of and currently
+co-chair a project for FESTX by . Teaching and mentoring are also
+close to my heart—I’ve organized kuppi sessions for my peers and
+enjoy helping others grow.
+Page 1 of 3
+I’m always eager to learn new things, tackle challenges, and
+collaborate with like-minded individuals. Feel free to connect with me
+to discuss technology, development, or any exciting opportunities!
+Experience
+Calcey
+Intern
+May 2024 - Present (5 months)
+Colombo District, Western Province, Sri Lanka
+IEEE Women in Engineering
+1 year
+Co Chair FestX-5.0
+April 2024 - Present (6 months)
+Marketing Committee member
+October 2023 - Present (1 year)
+Partnership Committee member - Nurturenook
+March 2024 - March 2024 (1 month)
+Publicity Commitee member - IEEE Open Week 2024
+February 2024 - February 2024 (1 month)
+IEEE
+MoraForesight2.0 - Selection Committee member
+April 2024 - Present (6 months)
+Rotaract Club of University of Moratuwa
+8 months
+Design committee
+February 2024 - June 2024 (5 months)
+Aya Project Contributor
+November 2023 - February 2024 (4 months)
+- Rated the performance of the Aya project's language model to contribute to
+ongoing evaluation and enhancement efforts.
+- Provided feedback on prompts and completions to ensure coherence and
+accuracy in model responses.
+Page 2 of 3
+University of Moratuwa
+1 year
+Caption writer
+December 2023 - June 2024 (7 months)
+I contributed as a caption writer at the following events.
+- Fit Sixes 2023
+- Fit Future Careers 2024
+First-Year IT Main Coordinator for EXMO Exhibition 2023
+July 2023 - December 2023 (6 months)
+INTECS - UoM
+Company Coordinator - Fit Future Careers 2024
+February 2024 - February 2024 (1 month)
+Sasip Institute
+Sasip Team member
+September 2022 - February 2023 (6 months)
+Colombo District, Western Province, Sri Lanka
+Education
+University of Moratuwa
+Information Technology  · (2022)
+Calcey
+Springboard Learner  · (February 2023 - February 2024)
+Visakha Vidyalaya Colombo
+GCE Advanced Level Examination, Physical Sciences · (2020 - 2022)
+Sirimavo Bandaranaike Vidyalaya
+GCE Ordinary Level Examination  · (2008 - 2019)
+
+Contact
+ritharaedirisinghe@gmail.co
+m
+www.linkedin.com/in/ritharak
+(LinkedIn)
+www.youtube.com/watch
+(Personal)
+github.com/rithakith/Word-wizardCS50-Final-Project/tree/master
+(Personal)
+Top Skills
+Next.js
+Tailwind CSS
+Internet of Things (IoT)
+Certifications
+edX Verified Certificate for Public
+Speaking
+Microsoft Security, Compliance, and
+Identity Fundamentals
+edX Verified Certificate for AWS
+Cloud Practitioner Essentials
+HTML5.0x: HTML5 and CSS
+Fundamentals
+edX Verified Certificate for Git and
+Github Basics
+Honors-Awards
+DataStorm 5.0 - Runner's Up
